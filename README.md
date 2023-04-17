@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://t.me/tomkcat">
-      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168691.png" width="120" height="60"/>
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168691.png" align="center" width="120" height="60"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
