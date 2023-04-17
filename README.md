@@ -21,7 +21,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m working and learning as a QA Engineer.
 
