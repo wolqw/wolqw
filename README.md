@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="display: block; width: 200px; height: auto;">
     </a>
     <a href="https://t.me/tomkcat">
-      <img src="https://www.freepnglogos.com/uploads/telegram-logo-11.png" alt="Telegram" style="display: block; width: 120px; height: auto;">
+      <img src="https://img.icons8.com/3d-fluency/256/telegram.png" alt="Telegram" style="display: block; width: 120px; height: auto;">
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=wolqw&style=flat-square&color=blue" alt=""/>
