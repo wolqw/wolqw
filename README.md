@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/yuri-volkov-785281105">
-      <img src="https://yt3.googleusercontent.com/9XmuxL_LL7CxAOOlbBgTnJIo2uHpoLKHhWzlPt7O49ULQmvBSJlxk1RpX3pJ8jkRBkD6p9BIRg=s176-c-k-c0x00ffffff-no-rj" alt="LinkedIn Badge" style="display: block; width: 200px; height: 200;">
+      <img src="https://yt3.googleusercontent.com/9XmuxL_LL7CxAOOlbBgTnJIo2uHpoLKHhWzlPt7O49ULQmvBSJlxk1RpX3pJ8jkRBkD6p9BIRg=s176-c-k-c0x00ffffff-no-rj" alt="LinkedIn Badge" style="display: block; width: 120px; height: 200;">
     </a>
     <a href="https://t.me/tomkcat">
       <img src="https://img.icons8.com/3d-fluency/256/telegram.png" alt="Telegram" style="display: block; width: 120px; height: 200;">
