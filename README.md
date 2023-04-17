@@ -27,7 +27,7 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 - :zap: In my free time, i have no free time.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168691.png width="120" height="60"/>)](https://t.me/tomkcat)
+- :mailbox:How to reach me: [![Linkedin Badge](https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168691.png width="120" height="60")](https://t.me/tomkcat)
 
 ---
 
