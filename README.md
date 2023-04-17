@@ -9,7 +9,7 @@
       <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168691.png" alt="Telegram" style="display: block; width: 120px; height: auto;">
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=wolqw&style=flat-square&color=blue" alt=""/>
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
