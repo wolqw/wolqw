@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://t.me/tomkcat">
-      <img src="https://w7.pngwing.com/pngs/482/985/png-transparent-telegram-network-internet-communication-multimedia-social-networks-icon-logo-connection.png" alt="Telegramm Badge"/>
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168691.png" alt="Telegramm Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
@@ -27,7 +27,7 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 - :zap: In my free time, i have no free time.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://w7.pngwing.com/pngs/482/985/png-transparent-telegram-network-internet-communication-multimedia-social-networks-icon-logo-connection.png)](https://t.me/tomkcat)
+- :mailbox:How to reach me: [![Linkedin Badge](https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168691.png)](https://t.me/tomkcat)
 
 ---
 
