@@ -24,7 +24,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :telescope: I’m working and learning as a QA Engineer.
 
 - :zap: In my free time, i have no free time.
