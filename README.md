@@ -8,7 +8,7 @@
     <a href="https://t.me/tomkcat">
       <img src="https://img.icons8.com/3d-fluency/256/telegram.png" alt="Telegram" style="display: block; width: 120px; height: 200;">
     </a>
-  </div>
+<!--   </div>
   <img src="https://komarev.com/ghpvc/?username=wolqw&style=flat-square&color=blue" alt=""/>
   <h1>
     </a>
@@ -19,7 +19,7 @@
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
 ---
 
